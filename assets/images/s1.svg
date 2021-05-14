@@ -1,0 +1,20 @@
+<svg id="Slider_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="147.482" height="90.392" viewBox="0 0 147.482 90.392">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.23" x2="0.508" y2="0.882" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ea3383" stop-opacity="0.231"/>
+      <stop offset="1" stop-color="#ea3383" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_853" data-name="Rectangle 853" width="147.482" height="90.392" rx="15" transform="translate(0 0)" fill="#363a4e"/>
+  <path id="Path_251" data-name="Path 251" d="M2639.9,450.6l-10.711-6.5-5.738,6.5-6.5-11.858s-8.8,10.711-9.563,7.268S2595.913,433,2595.913,433l-20.274,11.093-28.689-5.355-23.717,19.509" transform="translate(-2508.08 -409.632)" stroke="#ea3383" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2" fill="url(#linear-gradient)"/>
+  <g id="timer-silhouette" transform="translate(17.689 61.982)">
+    <g id="Group_166" data-name="Group 166" transform="translate(0)">
+      <g id="Group_165" data-name="Group 165">
+        <path id="Path_243" data-name="Path 243" d="M19.743,1.548h2.473a.435.435,0,0,0,.434-.434V.434A.435.435,0,0,0,22.216,0H19.743a.435.435,0,0,0-.434.434v.68A.435.435,0,0,0,19.743,1.548Z" transform="translate(-13.379)" fill="#c4c9db"/>
+        <path id="Path_244" data-name="Path 244" d="M10.5,5.837A7.555,7.555,0,0,0,5.128,8.076l1.648,1.19a5.541,5.541,0,1,1-.546.56l-1.238-1.6A7.569,7.569,0,1,0,10.5,5.837Z" transform="translate(-2.921 -3.725)" fill="#c4c9db"/>
+        <path id="Path_245" data-name="Path 245" d="M15.887,19.958a1.2,1.2,0,0,1-.942-.464l0,0L12.2,15.954a4.545,4.545,0,1,0,.748-.783L16.5,17.736l0,0a1.194,1.194,0,0,1-.615,2.219Z" transform="translate(-8.25 -9.019)" fill="#c4c9db"/>
+      </g>
+    </g>
+  </g>
+  <text id="_1h_20m_30s" data-name="1h 20m 30s" transform="translate(72.138 76.53)" fill="#c4c9db" font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.03em"><tspan x="-26.824" y="0">1h 20m 30s</tspan></text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="147.48" height="90.39" viewBox="0 0 147.48 90.39">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.692" y1="-0.032" x2="0.738" y2="0.667" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6a82ff" stop-opacity="0.341"/>
+      <stop offset="1" stop-color="#5b76ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Slider_3" transform="translate(-30 -463)">
+    <rect id="Rectangle_853" data-name="Rectangle 853" width="147.48" height="90.39" rx="15" transform="translate(30 463)" fill="#363a4e"/>
+    <path id="Path_253" data-name="Path 253" d="M2529.735,65.8l12.651-9.278,8.434,4.217,2.952-11.808,9.278,9.7,7.169-18.977,8.856,9.278,29.1-24.881,35.845,24.881" transform="translate(-2485 450.616)" stroke="#647eff" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2" fill="url(#linear-gradient)"/>
+    <g id="apple-black-silhouette-with-a-leaf" transform="translate(46 527.073)">
+      <g id="Group_173" data-name="Group 173">
+        <path id="Path_254" data-name="Path 254" d="M12.482,6.47a13.849,13.849,0,0,1,1.395-1.934h0A12.6,12.6,0,0,1,15.4,3.182a.191.191,0,0,0-.037-.355l-1.22-.57a.446.446,0,0,0-.521.13,20.846,20.846,0,0,0-1.964,4.05c-3.284-1.485-6.4.6-6.4,4.213,0,3.779,2.907,9.518,6.838,7.786,4.141,1.792,6.84-4.007,6.84-7.786C18.934,7,16.128,4.862,12.482,6.47Z" transform="translate(-5.255 -1.452)" fill="#c4c9db"/>
+        <path id="Path_255" data-name="Path 255" d="M17.542,3.794a.423.423,0,0,0,.373-.373A3.464,3.464,0,0,0,17.007.913,3.459,3.459,0,0,0,14.5,0a.424.424,0,0,0-.373.373,3.457,3.457,0,0,0,.907,2.509A3.46,3.46,0,0,0,17.542,3.794Z" transform="translate(-11.05 0)" fill="#c4c9db"/>
+      </g>
+    </g>
+    <text id="_2658_Kc" data-name="2658 Kc" transform="translate(87.834 540.752)" fill="#c4c9db" font-size="11" font-family="SegoeUI, Segoe UI" letter-spacing="0.03em"><tspan x="-20.014" y="0">2658 Kc</tspan></text>
+  </g>
+</svg>

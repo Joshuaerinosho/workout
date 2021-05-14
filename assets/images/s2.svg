@@ -1,0 +1,14 @@
+<svg id="Slider_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="147.482" height="90.392" viewBox="0 0 147.482 90.392">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.692" y1="-0.032" x2="0.724" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#62d248" stop-opacity="0.369"/>
+      <stop offset="1" stop-color="#62d248" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_853" data-name="Rectangle 853" width="147.482" height="90.392" rx="15" transform="translate(0 0)" fill="#363a4e"/>
+  <path id="Path_252" data-name="Path 252" d="M2523.234,273.446l7.86-6.681,8.646,3.144s19.65-9.039,20.829-9.039,20.043-10.611,20.043-10.611l14.148,2.358,26.724-13.362,15.327,11" transform="translate(-2507.787 -224.141)" stroke="#62d248" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2" fill="url(#linear-gradient)"/>
+  <g id="footsteps-silhouette-variant" transform="translate(21.162 63.841)">
+    <path id="Path_242" data-name="Path 242" d="M78.557,11.751c.845.289,1.591.474,2.663.8C80.808,17.758,75.887,15.691,78.557,11.751Zm4.393-4.78c-.055-1.562-.331-3.612-2.523-3.291-1.028.268-1.787,1.4-2.144,3.344a9.35,9.35,0,0,0,.149,3.474c.211.635.139.6.366.716.879.2,1.749.417,2.634.641C82.333,11.22,83.073,7.846,82.95,6.971Zm-6.765-.12a9.356,9.356,0,0,0,.149-3.474C75.978,1.43,75.218.3,74.191.034,72-.287,71.723,1.762,71.668,3.325c-.122.874.617,4.248,1.517,4.884.886-.223,1.756-.442,2.634-.641C76.046,7.447,75.974,7.486,76.185,6.851ZM73.4,8.908c.412,5.2,5.332,3.137,2.663-.8C75.216,8.394,74.47,8.578,73.4,8.908Z" transform="translate(-71.655 0)" fill="#c4c9db"/>
+  </g>
+  <text id="_26589_Steps" data-name="26589 Steps" transform="translate(72.283 76.949)" fill="#c4c9db" font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.03em"><tspan x="-28.211" y="0">26589 Steps</tspan></text>
+</svg>
