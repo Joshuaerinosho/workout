@@ -88,10 +88,10 @@ class _SignInAsCoachState extends State<SignInAsCoach> {
                           color: Color(0xffBA0001),
                           boxShadow: [
                             BoxShadow(
-                              offset: Offset(0, 5),
-                              color: kwhite,
+                              offset: Offset(0, 1),
+                              color: Colors.grey[900],
                               spreadRadius: 1,
-                              blurRadius: 10,
+                              blurRadius: 2,
                             ),
                           ],
                         ),
